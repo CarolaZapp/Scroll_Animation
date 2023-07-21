@@ -75,6 +75,7 @@ h1 {
     border-top: 1em solid rgb(148,197,23);
     border-bottom: 1em solid rgb(51,102,204);
     background-size: 1em 100%;
+    overflow-x: hidden;
   }
 
   .box:nth-of-type(even) {
